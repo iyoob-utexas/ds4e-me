@@ -1,24 +1,25 @@
----
-type: project
-partition: Work
-hub: ut-austin
-status: active
----
+<img src="notebooks/img/utexas_ds_orie_header.png" alt="drawing" style="width:900px;"/>
+<img src="notebooks/img/utexas_ds_orie_divider.png" alt="drawing" style="width:900px;"/>
 
-# DS4E for Mechanical Engineers
+This University of Texas course teaches Data Science through Experiential Learning.  Students work with data sets from day one and progressively gain Data Science skills as they learn from their mistakes.
 
-**Partition:** Work → [[ut-austin]]  ·  see [[partition-map]]
+**This is the Mechanical Engineering flavor of the course.** Every notebook is built around problems a mechanical engineer would recognize: 3D-printed part strength, jet engine emissions, weld inspection, and an auto parts business. The general version of the course lives at [iyoob-utexas/ds4e](https://github.com/iyoob-utexas/ds4e).
 
-**Started:** 2026-10-19
-**Status:** Active. Datasets generated and verified; notebooks run locally (2026-10-19). Not yet run in Colab.
+## About the course
 
-## What this is
+This course provides students with the knowledge to analyze and interpret data sets using industry-standard methodology. Key skills include learning how to clean, visualize, and perform industry-specific analysis on large data sets.  Using predictive analysis and machine learning, students will build models to make defensible connections in the data. Upon finishing this model, students will verify/validate their hypothesis and conclusions. The course culminates in the creation of an interactive dashboard presenting the given correlations. By “telling the story” of their journey through the data, students will relay the skills they learned to their peers.
 
-ME-specific datasets for Data Science for Engineers (ME 365D), plus the course notebooks that use them. The notebooks sit in this project folder at Ilyas's request, an exception to the vault's code-stays-in-`~/code` rule. All data is synthetic, generated from scratch with fixed seeds, shaped after real sources tested on 2026-10-19.
+## About the instructor
 
-Context: ME 335 now teaches what the models are, conceptually; this elective is where students build them ([[2026-09-08-me335-curriculum-update]]).
+Dr. Ilyas Iyoob is faculty of Data Science and Artificial Intelligence in the Cockrell School of Engineering at the University of Texas.  He pioneered the seamless interaction between machine learning and operations research in the fields of autonomous computing, health-tech, and fin-tech.  Previously, Dr. Iyoob helped build a cloud computing AI startup for 9 years and successfully sold it to IBM in 2016.  He currently advises over a dozen venture funded companies and serves as the Global Head of Research at Kyndryl (IBM Spinoff).  He has earned a number of patents and industry recognition for applied Artificial Intelligence and was awarded the prestigious World Mechanics prize by the University of London.
+
+## Recorded classroom session
+
+[Data Science Masterclass](https://www.youtube.com/watch?v=798bZ6OghBM&list=PLEtteQqlECpejAw48e5mHXRuKGjXV4076)
 
 ## Datasets
+
+Data Science for Engineers (ME 365D). All data is synthetic, generated from scratch with fixed seeds, shaped after real engineering sources. ME 335 teaches what the models are, conceptually; this elective is where students build them.
 
 | # | File | Rows × cols | Students answer | Inspired by |
 |---|---|---|---|---|
