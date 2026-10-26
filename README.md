@@ -13,10 +13,6 @@ This course provides students with the knowledge to analyze and interpret data s
 
 Dr. Ilyas Iyoob is faculty of Data Science and Artificial Intelligence in the Cockrell School of Engineering at the University of Texas.  He pioneered the seamless interaction between machine learning and operations research in the fields of autonomous computing, health-tech, and fin-tech.  Previously, Dr. Iyoob helped build a cloud computing AI startup for 9 years and successfully sold it to IBM in 2016.  He currently advises over a dozen venture funded companies and serves as the Global Head of Research at Kyndryl (IBM Spinoff).  He has earned a number of patents and industry recognition for applied Artificial Intelligence and was awarded the prestigious World Mechanics prize by the University of London.
 
-## Recorded classroom session
-
-[Data Science Masterclass](https://www.youtube.com/watch?v=798bZ6OghBM&list=PLEtteQqlECpejAw48e5mHXRuKGjXV4076)
-
 ## Datasets
 
 Data Science for Engineers (ME 365D). All data is synthetic, generated from scratch with fixed seeds, shaped after real engineering sources. ME 335 teaches what the models are, conceptually; this elective is where students build them.
